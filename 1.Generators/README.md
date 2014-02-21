@@ -14,6 +14,7 @@ Tasks
  2. list of numbers -x where x = (0...499) and x is divided by 2 or 3
  3. sum of squares numbers x % 7 = 0 and x % 11 = 1 where x = (0...1499)
  4. there is tuple = ("krzysiu", "socek", "faja", "wyplata") , from this tuple make dictonary where elements from tuple are uppercase and they are keys for values let be lengts of keys
+ 5. make generator that return number from 0 to 9, if number is 7 then should end generating
 
 [Docs python 3.3]:http://docs.python.org/3.3/tutorial/datastructures.html#list-comprehensions
 [Python wiki]:https://wiki.python.org/moin/Generators
