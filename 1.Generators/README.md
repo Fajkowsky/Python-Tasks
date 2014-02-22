@@ -16,6 +16,15 @@ Tasks
  4. there is tuple = ("krzysiu", "socek", "faja", "wyplata") , from this tuple make dictonary where elements from tuple are uppercase and they are keys for values let be lengts of keys
  5. make generator that return number from 0 to 9, if number is 7 then should end generating
  6. make generator for calculate sum of elements
+ 7. there is class:
+    class Pizza(object):
+        name = None
+        d = 0.0  # cm
+
+        def __init__(self, name, d):
+            self.name = name
+            self.d = d
+Generate all pizzas with names ananas, papaja, margarita and sizes 5, 10, 20
 
 [Docs python 3.3]:http://docs.python.org/3.3/tutorial/datastructures.html#list-comprehensions
 [Python wiki]:https://wiki.python.org/moin/Generators
