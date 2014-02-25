@@ -26,6 +26,7 @@ Tasks
                 self.name = name
                 self.d = d
 Generate all pizzas with names ananas, papaja, margarita and sizes 5, 10, 20
+8. generate list of tuples where [(sin(x), cos(y))] for x,y = (0..49)
 
 [Docs python 3.3]:http://docs.python.org/3.3/tutorial/datastructures.html#list-comprehensions
 [Python wiki]:https://wiki.python.org/moin/Generators
